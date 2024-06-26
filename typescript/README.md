@@ -6,5 +6,5 @@ Beyond this the only thing changed was this README the other steps can be checke
 ## Dependencies installed
 
 <code>
-npm install -D jest @types/jest @testing-library/react @testing-library/jest-dom @testing-library/user-event @babel/core @babel/preset-env @babel/preset-react @babel/preset-typescript babel-jest identity-obj-proxy jest-environment-jsdom
+npm install -D jest @types/jest @testing-library/react @testing-library/jest-dom @testing-library/user-event @babel/core @babel/preset-env @babel/preset-react @babel/preset-typescript babel-jest identity-obj-proxy jest-environment-jsdom ts-node
 </code>
